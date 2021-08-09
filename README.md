@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 ![](https://yusufozturk.vercel.app/api?username=bipin-52165&hide_title=true&include_all_commits=true&count_private=true&show_icons=true) ![](https://yusufozturk.vercel.app/api/top-langs/?username=bipin-52165&layout=compact&langs_count=10&hide=apacheconf,coffeescript)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
